@@ -11,6 +11,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <img src="./assets/logo.jpg" class="logo vue" alt="Vue logo" />
       <h1>Hello my name is Wafiq, my student id is 22ftt1516</h1>
       <h2>SIUUUUUUUUUUUUUUUUUUUU</h2>
+      <h3>information</h3>
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
